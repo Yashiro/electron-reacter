@@ -13,7 +13,7 @@
     `npm run dev` or `webpack --watch`  
 5. run your app(with the electron-reload):  
     `npm run app` or `electron app`  
-Tnen you can whrite your code in the src dir and just save,the webpack will auto-rebuild your code to the app dir and the electron-reload will auto-refresh the app.  
+Then you can whrite your code in the src dir and just save,the webpack will auto-rebuild your code to the app dir and the electron-reload will auto-refresh the app.  
 
 ### To build:  
 just run `npm run build` or `webpack` in your-app dir,then the app code will packed into the app dir,you can package it to an executable file as you like.
